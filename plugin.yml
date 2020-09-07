@@ -1,0 +1,6 @@
+name: Lasertag
+author: Enrico_A007
+version: 1.0
+main: net.magicgames.lasertag.Main
+commands:
+     lasertag:
